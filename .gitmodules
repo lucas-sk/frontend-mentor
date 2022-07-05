@@ -1,0 +1,3 @@
+[submodule "orderSummary"]
+	path = orderSummary
+	url = git@github.com:lucas-sk/orderSummary.git
