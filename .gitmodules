@@ -1,3 +1,9 @@
 [submodule "orderSummary"]
 	path = orderSummary
 	url = git@github.com:lucas-sk/orderSummary.git
+[submodule "React-advice-generator-FM"]
+	path = React-advice-generator-FM
+	url = git@github.com:lucas-sk/React-advice-generator-FM.git
+[submodule "advice-generator-FM"]
+	path = advice-generator-FM
+	url = git@github.com:lucas-sk/advice-generator-FM.git
