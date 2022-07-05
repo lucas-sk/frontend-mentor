@@ -7,3 +7,6 @@
 [submodule "advice-generator-FM"]
 	path = advice-generator-FM
 	url = git@github.com:lucas-sk/advice-generator-FM.git
+[submodule "Stats-preview-card-FM"]
+	path = Stats-preview-card-FM
+	url = git@github.com:lucas-sk/Stats-preview-card-FM.git
