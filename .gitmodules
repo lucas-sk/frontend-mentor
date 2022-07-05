@@ -10,3 +10,6 @@
 [submodule "Stats-preview-card-FM"]
 	path = Stats-preview-card-FM
 	url = git@github.com:lucas-sk/Stats-preview-card-FM.git
+[submodule "Profile-Card-FM"]
+	path = Profile-Card-FM
+	url = git@github.com:lucas-sk/Profile-Card-FM.git
