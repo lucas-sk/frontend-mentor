@@ -13,3 +13,6 @@
 [submodule "Profile-Card-FM"]
 	path = Profile-Card-FM
 	url = git@github.com:lucas-sk/Profile-Card-FM.git
+[submodule "qr-code-FM"]
+	path = qr-code-FM
+	url = git@github.com:lucas-sk/qr-code-FM.git
