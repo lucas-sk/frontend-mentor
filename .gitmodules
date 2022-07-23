@@ -16,3 +16,6 @@
 [submodule "qr-code-FM"]
 	path = qr-code-FM
 	url = git@github.com:lucas-sk/qr-code-FM.git
+[submodule "article-preview-component-master-FM"]
+	path = article-preview-component-master-FM
+	url = git@github.com:lucas-sk/article-preview-component-master-FM.git
